@@ -13,6 +13,6 @@
 
 # Traduccion del capitulo 9
 <p> Traduccion y resumen sobre la descarbonizacion </p>
-<a href="https://github.com/feriozziabel/CV_TyHM_1_2021/blob/main/TRADUCCIONFINAL.pdf">
+<a href="https://feriozziabel.github.io/CV_TyHM_1_2021/TRADUCCIONFINAL.pdf">
 <img src="https://github.com/feriozziabel/CV_TyHM_1_2021/blob/main/image.png" alt="Traducción" width="300px">
  </a>
