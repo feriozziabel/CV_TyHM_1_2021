@@ -9,3 +9,7 @@
  <a href="https://feriozziabel.github.io/CV_TyHM_1_2021/CVfinal.pdf">
  <img src="WhatsApp Image 2021-06-23 at 13.54.46.jpeg" alt="CV" width="300px">
   </a>
+
+# Traduccion del capitulo 9
+<p> Traduccion y resumen sobre la descarbonizacion </p>
+<a href=
