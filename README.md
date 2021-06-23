@@ -6,4 +6,4 @@ Esta es la entrega del trabajo completo del modulo 1 - Cracion de textos e Hiper
 
 Mi cv puede descargarse de este link
 <p>
-[CV Actualizado](CV.pdf)
+[CV Actualizado](cv.pdf)
