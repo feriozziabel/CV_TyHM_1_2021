@@ -1,5 +1,6 @@
 # TECNICAS Y HERRAMIENTAS MODERNAS 1
 #### Trabajo de Tecnicas y Herramientas Modernas <br>
+#### Alumno: Abel Feriozzi, Grupo: Power Rangers <br>
 #### Modulo 1 <br>
 #### Cracion de Textos e Hipertextos. <br>
 #### Crare una carpeta para el CV y otra carpeta para el capitulo del libro.
@@ -13,4 +14,5 @@
 # Traduccion del capitulo 9
 <p> Traduccion y resumen sobre la descarbonizacion </p>
 <a href="https://github.com/feriozziabel/CV_TyHM_1_2021/blob/main/TRADUCCIONFINAL.pdf">
-<img src="
+<img src="https://github.com/feriozziabel/CV_TyHM_1_2021/blob/main/image.png" alt="Traducción" width="300px">
+ </a>
