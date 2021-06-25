@@ -5,7 +5,7 @@
 #### Cracion de Textos e Hipertextos. <br>
 #### Crare una carpeta para el CV y otra carpeta para el capitulo del libro.
 
-#### Les dejo el link de mi repositorio haciendo clic en la imagen
+#### Les dejo el link de mi CV haciendo clic en la imagen
  <a href="https://feriozziabel.github.io/CV_TyHM_1_2021/CVfinal.pdf">
  <img src="WhatsApp Image 2021-06-23 at 13.54.46.jpeg" alt="CV" width="300px">
   </a>
